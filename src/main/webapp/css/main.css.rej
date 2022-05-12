@@ -1,0 +1,35 @@
+diff a/s36_g4_parking/s36_g4_parking/src/main/webapp/css/main.css b/s36_g4_parking/s36_g4_parking/src/main/webapp/css/main.css	(rejected hunks)
+@@ -0,0 +1,33 @@
++/*
++To change this license header, choose License Headers in Project Properties.
++To change this template file, choose Tools | Templates
++and open the template in the editor.
++*/
++/* 
++    Created on : 30/09/2021, 01:14:24 AM
++    Author     : infometrika
++*/
++
++body {
++  font-family: 'Titillium Web', sans-serif;
++}
++
++.navbar-brand {
++  font-size: 20px;
++  color: #000;
++  font-weight: bold;
++}
++
++#testimonial {
++  background: #f1f1f1;
++  padding: 50px 0 30px 0;
++  text-align:center;
++  margin-top: 40px;
++}
++
++footer {
++  background: url(../img/smartphones.png);
++}
++
++
++
